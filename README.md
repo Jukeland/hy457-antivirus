@@ -1,6 +1,3 @@
-Chliaras Antonios
-csd4392
-
 # Compiling the assignment
 
 To compile the assignment use "make" or "make build"
